@@ -6,3 +6,4 @@
 # SpatioTemporal-Ensemble
 # Federated-Learning-for-addressing-Ethical-Issues-in-AI
 # SpatioTemporal-Ensemble
+# ClimaStat
